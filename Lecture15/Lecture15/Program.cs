@@ -10,6 +10,8 @@ namespace Lecture15
     {
         static void Main(string[] args)
         {
+            Ref @ref = new Ref();
+
         }
     }
 }
