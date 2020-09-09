@@ -1,0 +1,7 @@
+D:\Proga\Курсы\Lecture15\Lecture15\Lecture15\bin\Debug\Lecture15.exe.config
+D:\Proga\Курсы\Lecture15\Lecture15\Lecture15\bin\Debug\Lecture15.exe
+D:\Proga\Курсы\Lecture15\Lecture15\Lecture15\bin\Debug\Lecture15.pdb
+D:\Proga\Курсы\Lecture15\Lecture15\Lecture15\obj\Debug\Lecture15.csprojAssemblyReference.cache
+D:\Proga\Курсы\Lecture15\Lecture15\Lecture15\obj\Debug\Lecture15.csproj.CoreCompileInputs.cache
+D:\Proga\Курсы\Lecture15\Lecture15\Lecture15\obj\Debug\Lecture15.exe
+D:\Proga\Курсы\Lecture15\Lecture15\Lecture15\obj\Debug\Lecture15.pdb
