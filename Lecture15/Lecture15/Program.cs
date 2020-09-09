@@ -10,6 +10,8 @@ namespace Lecture15
     {
         static void Main(string[] args)
         {
+            WorkingArrayList listWork = new WorkingArrayList();
+            listWork.PrintValues();
         }
     }
 }
